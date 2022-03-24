@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://grahamjevon.github.io/IIIFTest4/manifests/manifest3.json",
     "label" : "Barbados Mercury and Dolly Bridges"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://grahamjevon.github.io/IIIFTest4/manifests/manifest2.json",
+    "label" : "Barbados Mercury and Dolly Bridges"
   } ]
 }
