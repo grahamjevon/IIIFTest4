@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 3709,
+    "id" : "https://grahamjevon.github.io/IIIFTest4/images/0004030_18070801_0001/canvas/",
+    "label" : {
+      "none" : [ "0004030_18070801_0001" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://grahamjevon.github.io/IIIFTest4/images/0004030_18070801_0001/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://grahamjevon.github.io/IIIFTest4/images/0004030_18070801_0001/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 116,
+              "height" : 155
+            }, {
+              "width" : 232,
+              "height" : 310
+            }, {
+              "width" : 464,
+              "height" : 619
+            }, {
+              "width" : 928,
+              "height" : 1238
+            }, {
+              "width" : 1855,
+              "height" : 2475
+            }, {
+              "width" : 3709,
+              "height" : 4949
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 3709,
+            "@id" : "https://grahamjevon.github.io/IIIFTest4/images/0004030_18070801_0001",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 4949
+          } ],
+          "format" : "image/jpeg",
+          "width" : 3709,
+          "id" : "https://grahamjevon.github.io/IIIFTest4/images/0004030_18070801_0001/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 4949
+        },
+        "target" : "https://grahamjevon.github.io/IIIFTest4/images/0004030_18070801_0001/canvas/"
+      } ]
+    } ],
+    "height" : 4949
+  }, {
     "width" : 3142,
     "id" : "https://grahamjevon.github.io/IIIFTest4/images/0004030_18070131_0001/canvas/",
     "label" : {
