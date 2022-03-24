@@ -1,0 +1,153 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://grahamjevon.github.io/IIIFTest4/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "Barbados Mercury and Dolly Bridges",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Copies of the Barbados Mercury relating to Dolly Bridges",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "The newspapers were digitised at the Barbados Archives Department. The project was funded by the Endangered Archives Programme.",
+  "sequences" : [ {
+    "@id" : "http://86b243ed-7482-46cd-96a2-8cd9a1359cd1",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://8179b539-4eba-4626-9210-b4d11c79ef51",
+      "@type" : "sc:Canvas",
+      "label" : "Barbados Mercury, 27 Jan 1807",
+      "height" : 4925,
+      "width" : 3035,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2f82c3af-b1fc-4432-8e3d-c67df1eddefd",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://grahamjevon.github.io/IIIFTest4/images/0004030_18070127_0001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://grahamjevon.github.io/IIIFTest4/images/0004030_18070127_0001",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4925,
+          "width" : 3035
+        },
+        "on" : "http://8179b539-4eba-4626-9210-b4d11c79ef51"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://28052c3b-43e4-4a3b-bc77-c333ad063163",
+      "@type" : "sc:Canvas",
+      "label" : "Barbados Mercury, 31 Jan 1807",
+      "height" : 4984,
+      "width" : 3142,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://3f3d6365-311e-430a-8c4e-6b5f25e734d3",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://grahamjevon.github.io/IIIFTest4/images/0004030_18070131_0001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://grahamjevon.github.io/IIIFTest4/images/0004030_18070131_0001",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4984,
+          "width" : 3142
+        },
+        "on" : "http://28052c3b-43e4-4a3b-bc77-c333ad063163"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://407ea392-d523-47e4-a916-ec20d6e5f72f",
+      "@type" : "sc:Canvas",
+      "label" : "Barbados Mercury, 1 Aug 1807",
+      "height" : 4949,
+      "width" : 3709,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://2b52f583-680a-46bb-b3a8-5e2b90bcb628",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://grahamjevon.github.io/IIIFTest4/images/0004030_18070801_0001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://grahamjevon.github.io/IIIFTest4/images/0004030_18070801_0001",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4949,
+          "width" : 3709
+        },
+        "on" : "http://407ea392-d523-47e4-a916-ec20d6e5f72f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://552ed58a-b1ac-46e8-b558-f71f208a406e",
+      "@type" : "sc:Canvas",
+      "label" : "Barbados Mercury, 4 Aug 1807",
+      "height" : 4984,
+      "width" : 3768,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://047276c8-f967-48c2-a97f-c3857031ebc0",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://grahamjevon.github.io/IIIFTest4/images/0004030_18070804_0001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://grahamjevon.github.io/IIIFTest4/images/0004030_18070804_0001",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4984,
+          "width" : 3768
+        },
+        "on" : "http://552ed58a-b1ac-46e8-b558-f71f208a406e"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ {
+    "@id" : "http://example.org/iiif/book1/range/top",
+    "@type" : "sc:Range",
+    "label" : "Table of Content",
+    "viewingHint" : "top",
+    "ranges" : [ "http://example.org/iiif/book1/range/p1", "http://example.org/iiif/book1/range/p2", "http://example.org/iiif/book1/range/p3", "http://example.org/iiif/book1/range/p4" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/p1",
+    "@type" : "sc:Range",
+    "label" : "27 Jan 1807",
+    "canvases" : [ "http://8179b539-4eba-4626-9210-b4d11c79ef51" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/p2",
+    "@type" : "sc:Range",
+    "label" : "31 Jan 1807",
+    "canvases" : [ "http://28052c3b-43e4-4a3b-bc77-c333ad063163" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/p3",
+    "@type" : "sc:Range",
+    "label" : "1 Aug 1807",
+    "canvases" : [ "http://407ea392-d523-47e4-a916-ec20d6e5f72f" ]
+  }, {
+    "@id" : "http://example.org/iiif/book1/range/p4",
+    "@type" : "sc:Range",
+    "label" : "4 Aug 1807",
+    "canvases" : [ "http://552ed58a-b1ac-46e8-b558-f71f208a406e" ]
+  } ]
+}
