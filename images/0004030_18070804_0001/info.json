@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 118,
+    "height" : 156
+  }, {
+    "width" : 236,
+    "height" : 312
+  }, {
+    "width" : 471,
+    "height" : 623
+  }, {
+    "width" : 942,
+    "height" : 1246
+  }, {
+    "width" : 1884,
+    "height" : 2492
+  }, {
+    "width" : 3768,
+    "height" : 4984
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3768,
+  "@id" : "https://grahamjevon.github.io/IIIFTest4/images/0004030_18070804_0001",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4984
+}
