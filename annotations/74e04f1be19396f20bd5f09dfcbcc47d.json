@@ -1,0 +1,117 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Runaway advert",
+      "@type" : "oa:Tag",
+      "chars" : "Runaway advert"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Advert by John and Harriet Lagorce",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Advert by John and Harriet Lagorce</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/51366817",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-03-25T11:57:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648209458365",
+    "dcterms:modified" : "2022-03-25T11:57:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://grahamjevon.github.io/IIIFTest4/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=184,1848,881,542"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M183.72842,1847.98158h440.31523v0h440.31523v271.10901v271.10901h-440.31523h-440.31523v-271.10901z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4f974e8f-d467-4c1f-985e-b6430f48d510\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8179b539-4eba-4626-9210-b4d11c79ef51"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Title",
+      "@type" : "oa:Tag",
+      "chars" : "Title"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Barbados Mercury and Bridgetown Gazette newspaper",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Barbados Mercury and Bridgetown Gazette newspaper</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/51366817",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-03-24T14:54:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648133678033",
+    "dcterms:modified" : "2022-03-24T14:54:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://grahamjevon.github.io/IIIFTest4/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=143,39,2859,575"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M143.46258,38.95634h1429.35239v0h1429.35239v287.69439v287.69439h-1429.35239h-1429.35239v-287.69439z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8dea2e5f-2ffe-4e32-a539-4b74496a6c1f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8179b539-4eba-4626-9210-b4d11c79ef51"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Date",
+      "@type" : "oa:Tag",
+      "chars" : "Date"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "27 January 1807",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>27 January 1807</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/51366817",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2022-03-24T14:55:07",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1648133707240",
+    "dcterms:modified" : "2022-03-24T14:55:07",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://grahamjevon.github.io/IIIFTest4/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1058,544,911,156"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1057.71985,543.56524h455.35941v0h455.35941v77.79314v77.79314h-455.35941h-455.35941v-77.79314z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9edcfbbd-efc2-4c76-895f-ce631022c832\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://8179b539-4eba-4626-9210-b4d11c79ef51"
+    } ]
+  } ],
+  "@id" : "https://grahamjevon.github.io/IIIFTest4/annotations/74e04f1be19396f20bd5f09dfcbcc47d.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
